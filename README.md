@@ -1,5 +1,7 @@
 # Speaking
 
+Welcome to my public speaking portfolio of tech talks and workshops. This repo includes a list of events where I have presented on software development topics.
+
 ### Tech Talk (In-Person) - May 2025
 - Event Details
   - [User Group: Toronto JavaScript](https://torontojs.com)
