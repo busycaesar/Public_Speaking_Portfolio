@@ -7,6 +7,9 @@ Welcome to my public speaking portfolio of tech talks and workshops. This repo i
   - [User Group: Toronto MongoDB User Group](https://www.meetup.com/toronto-mongodb-usergroup)
   - [Location: Slalom](https://maps.app.goo.gl/9YussdS8mH3Gzqk48)
   - [Event Details Page](https://www.meetup.com/toronto-mongodb-usergroup/events/308305501)
+### Presentation Details
+  - [Presentation Slides](https://1drv.ms/p/c/76dcfc18af391fdd/EVaPu-2YINZLlwBiDoktN9MBN8SBHsm1OZapNNt4g8Wsdw?e=fhD4Gm)
+  - [Code and Documentation](https://github.com/busycaesar/Embeddings_Cosine_Similarity/tree/Master/MongoDB)
 
 ## Tech Talk (In-Person) - May 2025
 ### Event Details
