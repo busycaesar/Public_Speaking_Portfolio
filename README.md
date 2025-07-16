@@ -10,6 +10,9 @@ Welcome to my public speaking portfolio of tech talks and workshops. This repo i
 ### Presentation Details
   - [Presentation Slides](https://1drv.ms/p/c/76dcfc18af391fdd/EVaPu-2YINZLlwBiDoktN9MBN8SBHsm1OZapNNt4g8Wsdw?e=fhD4Gm)
   - [Code and Documentation](https://github.com/busycaesar/Embeddings_Cosine_Similarity/tree/Master/MongoDB)
+### After Event Photos
+  - [LinkedIn](https://www.linkedin.com/posts/busycaesar_mongodb-vectorsearch-developercommunity-activity-7351073936593297408-uc7q)
+  - [X](https://x.com/busycaesar/status/1945309461062537535)
 
 ## Tech Talk (In-Person) - May 2025
 ### Event Details
