@@ -2,6 +2,16 @@
 
 Welcome to my public speaking portfolio of tech talks and workshops. This repo includes a list of events where I have presented on software development topics.
 
+## Google DevFest 2025 London: Building Safe, Secure and Scalable Solutions with AI and Cloud
+### Events Details
+  - [User Group: GDG London](https://gdg.community.dev/gdg-london-1)
+  - [Location: Fanshawe College](https://maps.app.goo.gl/BdkwLqyhET6K9Z6m6)
+  - [Event Details Page](https://gdg.community.dev/events/details/google-gdg-london-presents-google-devfest-2025-london-building-safe-secure-and-scalable-solutions-with-ai-and-cloud)
+### Presentation Details
+  - Work in progress
+### After Event Photos
+  - Work in progress
+
 ## Toronto MongoDB Community Meetup: Vector Search
 ### Events Details
   - [User Group: Toronto MongoDB User Group](https://www.meetup.com/toronto-mongodb-usergroup)
