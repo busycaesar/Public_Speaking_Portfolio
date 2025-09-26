@@ -8,9 +8,10 @@ Welcome to my public speaking portfolio of tech talks and workshops. This repo i
   - [Location: Fanshawe College](https://maps.app.goo.gl/BdkwLqyhET6K9Z6m6)
   - [Event Details Page](https://gdg.community.dev/events/details/google-gdg-london-presents-google-devfest-2025-london-building-safe-secure-and-scalable-solutions-with-ai-and-cloud)
 ### Presentation Details
-  - Work in progress
+  - [Presentation Slides](https://docs.google.com/presentation/d/1ulgD_lsTzcO00j7-6wkWlx0Q2gpheMUntT5-14NI6yY)
+  - [Code and Documentation](https://github.com/busycaesar/Embeddings_And_Cosine_Similarity/blob/Master/Google/README.md)
 ### After Event Photos
-  - Work in progress
+  - "Wait for it"
 
 ## Toronto MongoDB Community Meetup: Vector Search
 ### Events Details
