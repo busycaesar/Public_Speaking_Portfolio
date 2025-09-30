@@ -12,6 +12,8 @@ Welcome to my public speaking portfolio of tech talks and workshops. This repo i
   - [Code and Documentation](https://github.com/busycaesar/Embeddings_And_Cosine_Similarity/blob/Master/Google/README.md)
 ### After Event Photos
   - "Wait for it"
+  - [LinkedIn](https://www.linkedin.com/posts/busycaesar_googledevfest-gdglondon-googledevelopers-activity-7378208972882997248-0oN4)
+  - [X](https://x.com/busycaesar/status/1972444223233274032)
 
 ## Toronto MongoDB Community Meetup: Vector Search
 ### Events Details
