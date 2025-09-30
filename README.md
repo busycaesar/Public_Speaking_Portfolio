@@ -11,7 +11,6 @@ Welcome to my public speaking portfolio of tech talks and workshops. This repo i
   - [Presentation Slides](https://docs.google.com/presentation/d/1ulgD_lsTzcO00j7-6wkWlx0Q2gpheMUntT5-14NI6yY)
   - [Code and Documentation](https://github.com/busycaesar/Embeddings_And_Cosine_Similarity/blob/Master/Google/README.md)
 ### After Event Photos
-  - "Wait for it"
   - [LinkedIn](https://www.linkedin.com/posts/busycaesar_googledevfest-gdglondon-googledevelopers-activity-7378208972882997248-0oN4)
   - [X](https://x.com/busycaesar/status/1972444223233274032)
 
