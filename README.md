@@ -2,6 +2,18 @@
 
 Welcome to my public speaking portfolio of tech talks and workshops. This repo includes a list of events where I have presented on software development topics.
 
+## The Math of Cosine Similarity
+### Events Details
+  - [User Group: GDG Toronto](https://gdg.community.dev/gdg-toronto/)
+  - [Location: TribalScale](https://maps.app.goo.gl/ucFizqaDYpw6sDcr8)
+  - [Event Details Page](https://gdg.community.dev/events/details/google-gdg-toronto-presents-the-math-of-cosine-similarity/)
+### Presentation Details
+  - [Presentation Slides](https://docs.google.com/presentation/d/1vcLzIfv3XSpXUvyN_0ZZGPWDUEJxytWhZm7Nj1Enf7U)
+  - [Code and Documentation](https://github.com/busycaesar/Embeddings_And_Cosine_Similarity/blob/Master/Google/README.md)
+### After Event Photos
+  - [LinkedIn](https://www.linkedin.com/posts/busycaesar_yesterday-i-had-the-opportunity-to-speak-activity-7397400312397062144-klKl)
+  - [X](https://x.com/busycaesar/status/1991648711332483147)
+
 ## Google DevFest 2025 London: Building Safe, Secure and Scalable Solutions with AI and Cloud
 ### Events Details
   - [User Group: GDG London](https://gdg.community.dev/gdg-london-1)
