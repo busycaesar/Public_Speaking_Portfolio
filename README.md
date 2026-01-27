@@ -2,6 +2,24 @@
 
 Welcome to my public speaking portfolio of tech talks and workshops. This repo includes a list of events where I have presented on software development topics.
 
+## Orlando Code Camp
+### Events Details
+  - [Event Partners](https://www.orlandocodecamp.com/partners)
+  - [Location: Seminole State College - Sanford/Lake Mary Campus](https://maps.app.goo.gl/wxdqXdHdfEWgScK68)
+  - [Event Details Page](https://www.orlandocodecamp.com/)
+### Presentation Details
+  - [Presentation Slides]()
+  - [Code and Documentation]()
+
+## MongoDB Meetup: Retrieval-Augmented Generation Skill Badge
+### Events Details
+  - [User Group: Toronto MongoDB User Group](https://www.meetup.com/toronto-mongodb-usergroup)
+  - [Location: Slalom](https://maps.app.goo.gl/9YussdS8mH3Gzqk48)
+  - [Event Details Page](https://www.meetup.com/mongodb-usergroup-toronto/events/312993741)
+### Presentation Details
+  - [Presentation Slides]()
+  - [Code and Documentation]()
+
 ## The Math of Cosine Similarity
 ### Events Details
   - [User Group: GDG Toronto](https://gdg.community.dev/gdg-toronto/)
@@ -14,7 +32,7 @@ Welcome to my public speaking portfolio of tech talks and workshops. This repo i
   - [LinkedIn](https://www.linkedin.com/posts/busycaesar_yesterday-i-had-the-opportunity-to-speak-activity-7397400312397062144-klKl)
   - [X](https://x.com/busycaesar/status/1991648711332483147)
 
-## Google DevFest 2025 London: Building Safe, Secure and Scalable Solutions with AI and Cloud
+## Google DevFest 2025 London: Building Safe, Secure, and Scalable Solutions with AI and Cloud
 ### Events Details
   - [User Group: GDG London](https://gdg.community.dev/gdg-london-1)
   - [Location: Fanshawe College](https://maps.app.goo.gl/BdkwLqyhET6K9Z6m6)
