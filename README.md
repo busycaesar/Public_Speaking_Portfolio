@@ -6,19 +6,13 @@ Welcome to my public speaking portfolio of tech talks and workshops. This repo i
 ### Events Details
   - [Event Partners](https://www.orlandocodecamp.com/partners)
   - [Location: Seminole State College - Sanford/Lake Mary Campus](https://maps.app.goo.gl/wxdqXdHdfEWgScK68)
-  - [Event Details Page](https://www.orlandocodecamp.com/)
-### Presentation Details
-  - [Presentation Slides]()
-  - [Code and Documentation]()
+  - [Event Details Page](https://www.orlandocodecamp.com)
 
 ## MongoDB Meetup: Retrieval-Augmented Generation Skill Badge
 ### Events Details
   - [User Group: Toronto MongoDB User Group](https://www.meetup.com/toronto-mongodb-usergroup)
   - [Location: Slalom](https://maps.app.goo.gl/9YussdS8mH3Gzqk48)
   - [Event Details Page](https://www.meetup.com/mongodb-usergroup-toronto/events/312993741)
-### Presentation Details
-  - [Presentation Slides]()
-  - [Code and Documentation]()
 
 ## The Math of Cosine Similarity
 ### Events Details
