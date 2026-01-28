@@ -2,13 +2,13 @@
 
 Welcome to my public speaking portfolio of tech talks and workshops. This repo includes a list of events where I have presented on software development topics.
 
-## Orlando Code Camp
+## Orlando Code Camp `Upcoming`
 ### Events Details
   - [Event Partners](https://www.orlandocodecamp.com/partners)
   - [Location: Seminole State College - Sanford/Lake Mary Campus](https://maps.app.goo.gl/wxdqXdHdfEWgScK68)
   - [Event Details Page](https://www.orlandocodecamp.com)
 
-## MongoDB Meetup: Retrieval-Augmented Generation Skill Badge
+## MongoDB Meetup: Retrieval-Augmented Generation Skill Badge `Upcoming`
 ### Events Details
   - [User Group: Toronto MongoDB User Group](https://www.meetup.com/toronto-mongodb-usergroup)
   - [Location: Slalom](https://maps.app.goo.gl/9YussdS8mH3Gzqk48)
