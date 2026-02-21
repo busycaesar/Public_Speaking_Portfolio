@@ -2,17 +2,55 @@
 
 Welcome to my public speaking portfolio of tech talks and workshops. This repo includes a list of events where I have presented on software development topics.
 
+---
+
 ## Orlando Code Camp `Upcoming`
 ### Events Details
   - [Event Partners](https://www.orlandocodecamp.com/partners)
   - [Location: Seminole State College - Sanford/Lake Mary Campus](https://maps.app.goo.gl/wxdqXdHdfEWgScK68)
   - [Event Details Page](https://www.orlandocodecamp.com)
 
+## AgentCon - Toronto `Upcoming`
+### Events Details
+  - [User Group: Global AI Toronto](https://globalai.community/chapters/toronto/)
+  - [Location: OneEleven](https://maps.app.goo.gl/8qik6iims7e3svmx9)
+  - [Event Details Page](https://globalai.community/chapters/toronto/events/agentcon-toronto/)
+### Presentation Details
+  - [Presentation Slides](#)
+  - [Code and Documentation](#)
+### After Event Photos
+  - [LinkedIn](#)
+  - [X](#)
+
+---
+
 ## MongoDB Meetup: Retrieval-Augmented Generation Skill Badge `Upcoming`
 ### Events Details
   - [User Group: Toronto MongoDB User Group](https://www.meetup.com/toronto-mongodb-usergroup)
   - [Location: Slalom](https://maps.app.goo.gl/9YussdS8mH3Gzqk48)
   - [Event Details Page](https://www.meetup.com/mongodb-usergroup-toronto/events/312993741)
+### Presentation Details
+  - [Presentation Slides](#)
+  - [Code and Documentation](#)
+### After Event Photos
+  - [LinkedIn](#)
+  - [X](#)
+
+---
+
+## TechTalk (In-Person) - February 2026 `Upcoming`
+### Events Details
+  - [User Group: Toronto JavaScript](https://torontojs.com)
+  - [Location: Super.com](https://maps.app.goo.gl/TgSkUmm1b1XjZtXLA)
+  - [Event Details Page](https://guild.host/events/techtalk-inperson-february-zwj11k)
+### Presentation Details
+  - [Presentation Slides](#)
+  - [Code and Documentation](#)
+### After Event Photos
+  - [LinkedIn](#)
+  - [X](#)
+
+---
 
 ## The Math of Cosine Similarity
 ### Events Details
@@ -26,6 +64,8 @@ Welcome to my public speaking portfolio of tech talks and workshops. This repo i
   - [LinkedIn](https://www.linkedin.com/posts/busycaesar_yesterday-i-had-the-opportunity-to-speak-activity-7397400312397062144-klKl)
   - [X](https://x.com/busycaesar/status/1991648711332483147)
 
+---
+
 ## Google DevFest 2025 London: Building Safe, Secure, and Scalable Solutions with AI and Cloud
 ### Events Details
   - [User Group: GDG London](https://gdg.community.dev/gdg-london-1)
@@ -37,6 +77,8 @@ Welcome to my public speaking portfolio of tech talks and workshops. This repo i
 ### After Event Photos
   - [LinkedIn](https://www.linkedin.com/posts/busycaesar_googledevfest-gdglondon-googledevelopers-activity-7378208972882997248-0oN4)
   - [X](https://x.com/busycaesar/status/1972444223233274032)
+
+---
 
 ## Toronto MongoDB Community Meetup: Vector Search
 ### Events Details
@@ -50,6 +92,8 @@ Welcome to my public speaking portfolio of tech talks and workshops. This repo i
   - [LinkedIn](https://www.linkedin.com/posts/busycaesar_mongodb-vectorsearch-developercommunity-activity-7351073936593297408-uc7q)
   - [X](https://x.com/busycaesar/status/1945309461062537535)
 
+---
+
 ## Tech Talk (In-Person) - May 2025
 ### Event Details
   - [User Group: Toronto JavaScript](https://torontojs.com)
@@ -61,6 +105,8 @@ Welcome to my public speaking portfolio of tech talks and workshops. This repo i
 ### After Event Photos
   - [LinkedIn](https://www.linkedin.com/posts/busycaesar_torontojs-techtalk-ai-activity-7329180516807491584-BUMw)
   - [X](https://x.com/busycaesar/status/1923416635483869532)
+
+---
 
 ## Global Azure Bootcamp - Toronto 2025
 ### Event Details
