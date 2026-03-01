@@ -32,25 +32,25 @@ Welcome to my public speaking portfolio of tech talks and workshops. This repo i
   - [Location: Slalom](https://maps.app.goo.gl/9YussdS8mH3Gzqk48)
   - [Event Details Page](https://www.meetup.com/mongodb-usergroup-toronto/events/312993741)
 ### Presentation Details
-  - [Presentation Slides](#)
-  - [Code and Documentation](#)
+  - [Presentation Slides](https://docs.google.com/presentation/d/161iMu5kQcTlKH9TxmPFIsHWESJws8672_MMTHctCPcI)
+  - [Code and Documentation](https://github.com/busycaesar/MongoDB_RAG_Skill_Badge/blob/Master/documentation.md)
 ### After Event Photos
   - [LinkedIn](#)
   - [X](#)
 
 ---
 
-## TechTalk (In-Person) - February 2026 `Upcoming`
+## TechTalk (In-Person) - February 2026
 ### Events Details
   - [User Group: Toronto JavaScript](https://torontojs.com)
   - [Location: Super.com](https://maps.app.goo.gl/TgSkUmm1b1XjZtXLA)
   - [Event Details Page](https://guild.host/events/techtalk-inperson-february-zwj11k)
 ### Presentation Details
-  - [Presentation Slides](#)
-  - [Code and Documentation](#)
+  - [Presentation Slides](https://1drv.ms/p/c/76dcfc18af391fdd/IQD4be5UPFnoQ7qKpWtZeVP5Aa4CZbS9PYQLbP7agLrput8)
+  - [Code and Documentation](https://github.com/busycaesar/Embeddings_And_Cosine_Similarity/blob/Master/TorontoJS/README.md)
 ### After Event Photos
-  - [LinkedIn](#)
-  - [X](#)
+  - [LinkedIn](https://www.linkedin.com/posts/busycaesar_techtalk-artificialintelligence-machinelearning-activity-7432553168858669056-sHCX/)
+  - [X](https://x.com/busycaesar/status/2026811787304161772)
 
 ---
 
