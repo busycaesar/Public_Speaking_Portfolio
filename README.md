@@ -4,6 +4,20 @@ Welcome to my public speaking portfolio of tech talks and workshops. This repo i
 
 ---
 
+<!--
+## Title
+### Events Details
+  - [User Group: User Group Name](#)
+  - [Location: Location Name](#)
+  - [Event Details Page](#)
+### Presentation Details
+  - [Presentation Slides](#)
+  - [Code and Documentation](#)
+### After Event Photos
+  - [LinkedIn](#)
+  - [X](#)
+-->
+
 ## Orlando Code Camp `Upcoming`
 ### Events Details
   - [Event Partners](https://www.orlandocodecamp.com/partners)
@@ -49,6 +63,7 @@ Welcome to my public speaking portfolio of tech talks and workshops. This repo i
   - [Presentation Slides](https://1drv.ms/p/c/76dcfc18af391fdd/IQD4be5UPFnoQ7qKpWtZeVP5Aa4CZbS9PYQLbP7agLrput8)
   - [Code and Documentation](https://github.com/busycaesar/Embeddings_And_Cosine_Similarity/blob/Master/TorontoJS/README.md)
 ### After Event Photos
+  - [Session Recording](https://www.youtube.com/live/IA4T6pSnHgw?t=2438s)
   - [LinkedIn](https://www.linkedin.com/posts/busycaesar_techtalk-artificialintelligence-machinelearning-activity-7432553168858669056-sHCX/)
   - [X](https://x.com/busycaesar/status/2026811787304161772)
 
@@ -105,6 +120,7 @@ Welcome to my public speaking portfolio of tech talks and workshops. This repo i
   - [Presentation Slides](https://1drv.ms/p/c/76dcfc18af391fdd/ETXZK8PPZblLlso-7EazEtMBlhOid3-d5hCvUvlgblcVyg?e=4cVO4Y)
   - [Code and Documentation](https://github.com/busycaesar/Model_Context_Protocol/tree/Master/firebase-node)
 ### After Event Photos
+  - [Session Recording](https://www.youtube.com/live/G2SKWSdEQig?t=4863)
   - [LinkedIn](https://www.linkedin.com/posts/busycaesar_torontojs-techtalk-ai-activity-7329180516807491584-BUMw)
   - [X](https://x.com/busycaesar/status/1923416635483869532)
 
