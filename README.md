@@ -40,7 +40,7 @@ Welcome to my public speaking portfolio of tech talks and workshops. This repo i
 
 ---
 
-## MongoDB Meetup: Retrieval-Augmented Generation Skill Badge `Upcoming`
+## MongoDB Meetup: Retrieval-Augmented Generation Skill Badge
 ### Events Details
   - [User Group: Toronto MongoDB User Group](https://www.meetup.com/toronto-mongodb-usergroup)
   - [Location: Slalom](https://maps.app.goo.gl/9YussdS8mH3Gzqk48)
