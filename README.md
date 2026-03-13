@@ -49,8 +49,8 @@ Welcome to my public speaking portfolio of tech talks and workshops. This repo i
   - [Presentation Slides](https://docs.google.com/presentation/d/161iMu5kQcTlKH9TxmPFIsHWESJws8672_MMTHctCPcI)
   - [Code and Documentation](https://github.com/busycaesar/MongoDB_RAG_Skill_Badge/blob/Master/documentation.md)
 ### After Event Photos
-  - [LinkedIn](#)
-  - [X](#)
+  - [LinkedIn](https://www.linkedin.com/posts/busycaesar_rag-mongodb-ai-activity-7435302449340555264-Ljyl)
+  - [X](https://x.com/busycaesar/status/202953634917108951)
 
 ---
 
