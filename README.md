@@ -32,8 +32,8 @@ Welcome to my public speaking portfolio of tech talks and workshops. This repo i
   - [Location: OneEleven](https://maps.app.goo.gl/8qik6iims7e3svmx9)
   - [Event Details Page](https://globalai.community/chapters/toronto/events/agentcon-toronto/)
 ### Presentation Details
-  - [Presentation Slides](#)
-  - [Code and Documentation](#)
+  - [Presentation Slides](https://1drv.ms/p/c/76dcfc18af391fdd/IQBzzDdGVvCZTIfv2_jIo8uiAbUWVlXSplnOWDFfbJYZR9o?e=P0RNNU)
+  - [Code and Documentation](https://github.com/busycaesar/Embeddings_And_Cosine_Similarity/blob/Master/AgentCon%20-%20Toronto/README.md)
 ### After Event Photos
   - [LinkedIn](#)
   - [X](#)
