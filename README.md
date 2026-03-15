@@ -23,10 +23,16 @@ Welcome to my public speaking portfolio of tech talks and workshops. This repo i
   - [Event Partners](https://www.orlandocodecamp.com/partners)
   - [Location: Seminole State College - Sanford/Lake Mary Campus](https://maps.app.goo.gl/wxdqXdHdfEWgScK68)
   - [Event Details Page](https://www.orlandocodecamp.com)
+### Presentation Details
+  - [Presentation Slides](#)
+  - [Code and Documentation](#)
+### After Event Photos
+  - [LinkedIn](#)
+  - [X](#)
 
 ---
 
-## AgentCon - Toronto `Upcoming`
+## AgentCon - Toronto
 ### Events Details
   - [User Group: Global AI Toronto](https://globalai.community/chapters/toronto/)
   - [Location: OneEleven](https://maps.app.goo.gl/8qik6iims7e3svmx9)
