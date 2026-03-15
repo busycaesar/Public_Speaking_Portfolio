@@ -41,8 +41,8 @@ Welcome to my public speaking portfolio of tech talks and workshops. This repo i
   - [Presentation Slides](https://1drv.ms/p/c/76dcfc18af391fdd/IQBzzDdGVvCZTIfv2_jIo8uiAbUWVlXSplnOWDFfbJYZR9o?e=P0RNNU)
   - [Code and Documentation](https://github.com/busycaesar/Embeddings_And_Cosine_Similarity/blob/Master/AgentCon%20-%20Toronto/README.md)
 ### After Event Photos
-  - [LinkedIn](#)
-  - [X](#)
+  - [LinkedIn](https://www.linkedin.com/posts/busycaesar_agentcon-agentcontoronto-microsoft-activity-7439006679461126144-dFnf)
+  - [X](https://x.com/busycaesar/status/2033243121186906402)
 
 ---
 
