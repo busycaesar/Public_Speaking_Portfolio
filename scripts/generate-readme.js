@@ -66,7 +66,7 @@ function main() {
   const header = [
     "# Public Speaking Portfolio",
     "",
-    "Welcome to my public speaking portfolio of tech talks and workshops. This repo includes a list of events where I have presented on software development topics.",
+    "Tech talks and workshops I’ve given at meetups, conferences, and community events—on software development, AI, and cloud. Each listing links to slides, code, session recordings, and post-event highlights when available.",
     "",
     "---",
     "",
