@@ -1,0 +1,35 @@
+name: Update README
+
+on:
+  schedule:
+    # Daily at 12:00 AM UTC (GitHub Actions cron uses UTC only)
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Regenerate README
+        run: node scripts/generate-readme.js
+
+      - name: Commit and push if README changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet README.md; then
+            echo "README.md unchanged; nothing to commit."
+            exit 0
+          fi
+          git add README.md
+          git commit -m "chore: regenerate README from engagements.json"
+          git push

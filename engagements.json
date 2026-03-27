@@ -1,0 +1,191 @@
+[
+  {
+    "title": "Orlando Code Camp",
+    "status": "upcoming",
+    "date": null,
+    "userGroup": {
+      "name": "Event Partners",
+      "url": "https://www.orlandocodecamp.com/partners"
+    },
+    "location": {
+      "name": "Seminole State College - Sanford/Lake Mary Campus",
+      "url": "https://maps.app.goo.gl/wxdqXdHdfEWgScK68"
+    },
+    "eventPage": "https://www.orlandocodecamp.com",
+    "slides": null,
+    "code": null,
+    "afterEvent": {
+      "linkedin": null,
+      "x": null,
+      "youtube": null
+    }
+  },
+  {
+    "title": "AgentCon - Toronto",
+    "status": "past",
+    "date": null,
+    "userGroup": {
+      "name": "Global AI Toronto",
+      "url": "https://globalai.community/chapters/toronto/"
+    },
+    "location": {
+      "name": "OneEleven",
+      "url": "https://maps.app.goo.gl/8qik6iims7e3svmx9"
+    },
+    "eventPage": "https://globalai.community/chapters/toronto/events/agentcon-toronto/",
+    "slides": "https://1drv.ms/p/c/76dcfc18af391fdd/IQBzzDdGVvCZTIfv2_jIo8uiAbUWVlXSplnOWDFfbJYZR9o?e=P0RNNU",
+    "code": "https://github.com/busycaesar/Embeddings_And_Cosine_Similarity/blob/Master/AgentCon%20-%20Toronto/README.md",
+    "afterEvent": {
+      "linkedin": "https://www.linkedin.com/posts/busycaesar_agentcon-agentcontoronto-microsoft-activity-7439006679461126144-dFnf",
+      "x": "https://x.com/busycaesar/status/2033243121186906402",
+      "youtube": null
+    }
+  },
+  {
+    "title": "MongoDB Meetup: Retrieval-Augmented Generation Skill Badge",
+    "status": "past",
+    "date": null,
+    "userGroup": {
+      "name": "Toronto MongoDB User Group",
+      "url": "https://www.meetup.com/toronto-mongodb-usergroup"
+    },
+    "location": {
+      "name": "Slalom",
+      "url": "https://maps.app.goo.gl/9YussdS8mH3Gzqk48"
+    },
+    "eventPage": "https://www.meetup.com/mongodb-usergroup-toronto/events/312993741",
+    "slides": "https://docs.google.com/presentation/d/161iMu5kQcTlKH9TxmPFIsHWESJws8672_MMTHctCPcI",
+    "code": "https://github.com/busycaesar/MongoDB_RAG_Skill_Badge/blob/Master/documentation.md",
+    "afterEvent": {
+      "linkedin": "https://www.linkedin.com/posts/busycaesar_rag-mongodb-ai-activity-7435302449340555264-Ljyl",
+      "x": "https://x.com/busycaesar/status/202953634917108951",
+      "youtube": null
+    }
+  },
+  {
+    "title": "TechTalk (In-Person) - February 2026",
+    "status": "past",
+    "date": "2026-02-01",
+    "userGroup": {
+      "name": "Toronto JavaScript",
+      "url": "https://torontojs.com"
+    },
+    "location": {
+      "name": "Super.com",
+      "url": "https://maps.app.goo.gl/TgSkUmm1b1XjZtXLA"
+    },
+    "eventPage": "https://guild.host/events/techtalk-inperson-february-zwj11k",
+    "slides": "https://1drv.ms/p/c/76dcfc18af391fdd/IQD4be5UPFnoQ7qKpWtZeVP5Aa4CZbS9PYQLbP7agLrput8",
+    "code": "https://github.com/busycaesar/Embeddings_And_Cosine_Similarity/blob/Master/TorontoJS/README.md",
+    "afterEvent": {
+      "linkedin": "https://www.linkedin.com/posts/busycaesar_techtalk-artificialintelligence-machinelearning-activity-7432553168858669056-sHCX/",
+      "x": "https://x.com/busycaesar/status/2026811787304161772",
+      "youtube": "https://www.youtube.com/live/IA4T6pSnHgw?t=2438s"
+    }
+  },
+  {
+    "title": "The Math of Cosine Similarity",
+    "status": "past",
+    "date": null,
+    "userGroup": {
+      "name": "GDG Toronto",
+      "url": "https://gdg.community.dev/gdg-toronto/"
+    },
+    "location": {
+      "name": "TribalScale",
+      "url": "https://maps.app.goo.gl/ucFizqaDYpw6sDcr8"
+    },
+    "eventPage": "https://gdg.community.dev/events/details/google-gdg-toronto-presents-the-math-of-cosine-similarity/",
+    "slides": "https://docs.google.com/presentation/d/1vcLzIfv3XSpXUvyN_0ZZGPWDUEJxytWhZm7Nj1Enf7U",
+    "code": "https://github.com/busycaesar/Embeddings_And_Cosine_Similarity/blob/Master/Google/README.md",
+    "afterEvent": {
+      "linkedin": "https://www.linkedin.com/posts/busycaesar_yesterday-i-had-the-opportunity-to-speak-activity-7397400312397062144-klKl",
+      "x": "https://x.com/busycaesar/status/1991648711332483147",
+      "youtube": null
+    }
+  },
+  {
+    "title": "Google DevFest 2025 London: Building Safe, Secure, and Scalable Solutions with AI and Cloud",
+    "status": "past",
+    "date": null,
+    "userGroup": {
+      "name": "GDG London",
+      "url": "https://gdg.community.dev/gdg-london-1"
+    },
+    "location": {
+      "name": "Fanshawe College",
+      "url": "https://maps.app.goo.gl/BdkwLqyhET6K9Z6m6"
+    },
+    "eventPage": "https://gdg.community.dev/events/details/google-gdg-london-presents-google-devfest-2025-london-building-safe-secure-and-scalable-solutions-with-ai-and-cloud",
+    "slides": "https://docs.google.com/presentation/d/1ulgD_lsTzcO00j7-6wkWlx0Q2gpheMUntT5-14NI6yY",
+    "code": "https://github.com/busycaesar/Embeddings_And_Cosine_Similarity/blob/Master/Google/README.md",
+    "afterEvent": {
+      "linkedin": "https://www.linkedin.com/posts/busycaesar_googledevfest-gdglondon-googledevelopers-activity-7378208972882997248-0oN4",
+      "x": "https://x.com/busycaesar/status/1972444223233274032",
+      "youtube": null
+    }
+  },
+  {
+    "title": "Toronto MongoDB Community Meetup: Vector Search",
+    "status": "past",
+    "date": null,
+    "userGroup": {
+      "name": "Toronto MongoDB User Group",
+      "url": "https://www.meetup.com/toronto-mongodb-usergroup"
+    },
+    "location": {
+      "name": "Slalom",
+      "url": "https://maps.app.goo.gl/9YussdS8mH3Gzqk48"
+    },
+    "eventPage": "https://www.meetup.com/toronto-mongodb-usergroup/events/308305501",
+    "slides": "https://1drv.ms/p/c/76dcfc18af391fdd/EVaPu-2YINZLlwBiDoktN9MBN8SBHsm1OZapNNt4g8Wsdw?e=fhD4Gm",
+    "code": "https://github.com/busycaesar/Embeddings_Cosine_Similarity/tree/Master/MongoDB",
+    "afterEvent": {
+      "linkedin": "https://www.linkedin.com/posts/busycaesar_mongodb-vectorsearch-developercommunity-activity-7351073936593297408-uc7q",
+      "x": "https://x.com/busycaesar/status/1945309461062537535",
+      "youtube": null
+    }
+  },
+  {
+    "title": "Tech Talk (In-Person) - May 2025",
+    "status": "past",
+    "date": "2025-05-01",
+    "userGroup": {
+      "name": "Toronto JavaScript",
+      "url": "https://torontojs.com"
+    },
+    "location": {
+      "name": "Super.com",
+      "url": "https://maps.app.goo.gl/TgSkUmm1b1XjZtXLA"
+    },
+    "eventPage": "https://guild.host/events/tech-talk-inperson-may-6f48pj",
+    "slides": "https://1drv.ms/p/c/76dcfc18af391fdd/ETXZK8PPZblLlso-7EazEtMBlhOid3-d5hCvUvlgblcVyg?e=4cVO4Y",
+    "code": "https://github.com/busycaesar/Model_Context_Protocol/tree/Master/firebase-node",
+    "afterEvent": {
+      "linkedin": "https://www.linkedin.com/posts/busycaesar_torontojs-techtalk-ai-activity-7329180516807491584-BUMw",
+      "x": "https://x.com/busycaesar/status/1923416635483869532",
+      "youtube": "https://www.youtube.com/live/G2SKWSdEQig?t=4863"
+    }
+  },
+  {
+    "title": "Global Azure Bootcamp - Toronto 2025",
+    "status": "past",
+    "date": null,
+    "userGroup": {
+      "name": "Metro Toronto Azure Community",
+      "url": "https://www.meetup.com/metro-toronto-azure-community"
+    },
+    "location": {
+      "name": "Microsoft Canadian Headquarters",
+      "url": "https://maps.app.goo.gl/vyTzre5DpcvUmmBg7"
+    },
+    "eventPage": "https://developer.microsoft.com/en-us/reactor/events/25513",
+    "slides": "https://1drv.ms/p/c/76dcfc18af391fdd/ET2sVpwa9_ZGpsvOdOd2KYQBPIh4p8EK-LpWYiH9edWJFw?e=NJLeqC",
+    "code": "https://github.com/busycaesar/Model_Context_Protocol/tree/Master/github",
+    "afterEvent": {
+      "linkedin": "https://www.linkedin.com/posts/busycaesar_globalazure-azurebootcamp-githubcopilot-activity-7327159234872184832-22HE",
+      "x": "https://x.com/busycaesar/status/1921395346686538187",
+      "youtube": null
+    }
+  }
+]
