@@ -4,17 +4,17 @@ Tech talks and workshops I’ve given at meetups, conferences, and community eve
 
 ---
 
-## Orlando Code Camp `Upcoming`
+## Orlando Code Camp
 ### Events Details
   - [Event Partners](https://www.orlandocodecamp.com/partners)
   - [Location: Seminole State College - Sanford/Lake Mary Campus](https://maps.app.goo.gl/wxdqXdHdfEWgScK68)
   - [Event Details Page](https://www.orlandocodecamp.com)
 ### Presentation Details
-  - [Presentation Slides](#)
-  - [Code and Documentation](#)
+  - [Presentation Slides](https://1drv.ms/p/c/76dcfc18af391fdd/IQBClYO9guiNQr36QF2iffagAbRijzBwGRm99sSMmZqLVW0)
+  - [Code and Documentation](https://github.com/busycaesar/Embeddings_And_Cosine_Similarity/blob/Master/Azure/README.md)
 ### After Event Photos
-  - [LinkedIn](#)
-  - [X](#)
+  - [LinkedIn](https://www.linkedin.com/posts/busycaesar_orlandocodecamp-onetug-aibutmath-activity-7449633838256865280-7Tdw)
+  - [X](https://x.com/busycaesar/status/2043869178151530801)
 
 ---
 
@@ -24,7 +24,7 @@ Tech talks and workshops I’ve given at meetups, conferences, and community eve
   - [Location: OneEleven](https://maps.app.goo.gl/8qik6iims7e3svmx9)
   - [Event Details Page](https://globalai.community/chapters/toronto/events/agentcon-toronto/)
 ### Presentation Details
-  - [Presentation Slides](https://1drv.ms/p/c/76dcfc18af391fdd/IQBzzDdGVvCZTIfv2_jIo8uiAbUWVlXSplnOWDFfbJYZR9o?e=P0RNNU)
+  - [Presentation Slides](https://1drv.ms/p/c/76dcfc18af391fdd/IQBzzDdGVvCZTIfv2_jIo8uiAbUWVlXSplnOWDFfbJYZR9o)
   - [Code and Documentation](https://github.com/busycaesar/Embeddings_And_Cosine_Similarity/blob/Master/AgentCon%20-%20Toronto/README.md)
 ### After Event Photos
   - [LinkedIn](https://www.linkedin.com/posts/busycaesar_agentcon-agentcontoronto-microsoft-activity-7439006679461126144-dFnf)
