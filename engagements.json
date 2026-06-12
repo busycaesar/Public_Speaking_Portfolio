@@ -1,5 +1,26 @@
 [
   {
+    "title": "MI.NET — Dev J. Shah - Cosine Similarity with Azure AI Search & Azure AI Foundry",
+    "status": "upcoming",
+    "date": null,
+    "userGroup": {
+      "name": "Michigan .NET Users Group (MI.NET)",
+      "url": "https://www.meetup.com/midotnet/"
+    },
+    "location": {
+      "name": "Epitec",
+      "url": "https://maps.app.goo.gl/rT86JJCtbRFxdbLfA"
+    },
+    "eventPage": "https://www.meetup.com/midotnet/events/314783429/",
+    "slides": "",
+    "code": "https://github.com/busycaesar/Embeddings_And_Cosine_Similarity/blob/Master/Azure/README.md",
+    "afterEvent": {
+      "linkedin": null,
+      "x": null,
+      "youtube": null
+    }
+  },
+  {
     "title": "Orlando Code Camp",
     "status": "past",
     "date": null,
