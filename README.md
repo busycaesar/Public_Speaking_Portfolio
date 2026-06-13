@@ -4,6 +4,20 @@ Tech talks and workshops I’ve given at meetups, conferences, and community eve
 
 ---
 
+## MI.NET — Dev J. Shah - Cosine Similarity with Azure AI Search & Azure AI Foundry `Upcoming`
+### Events Details
+  - [User Group: Michigan .NET Users Group (MI.NET)](https://www.meetup.com/midotnet/)
+  - [Location: Epitec](https://maps.app.goo.gl/rT86JJCtbRFxdbLfA)
+  - [Event Details Page](https://www.meetup.com/midotnet/events/314783429/)
+### Presentation Details
+  - [Presentation Slides](#)
+  - [Code and Documentation](https://github.com/busycaesar/Embeddings_And_Cosine_Similarity/blob/Master/Azure/README.md)
+### After Event Photos
+  - [LinkedIn](#)
+  - [X](#)
+
+---
+
 ## Orlando Code Camp
 ### Events Details
   - [Event Partners](https://www.orlandocodecamp.com/partners)
