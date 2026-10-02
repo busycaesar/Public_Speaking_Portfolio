@@ -1,7 +1,28 @@
 [
   {
-    "title": "MI.NET — Dev J. Shah - Cosine Similarity with Azure AI Search & Azure AI Foundry",
+    "title": "DevFest Montreal",
     "status": "upcoming",
+    "date": null,
+    "userGroup": {
+      "name": "GDG Montreal",
+      "url": "https://gdg.community.dev/gdg-montreal/"
+    },
+    "location": {
+      "name": "Ax.c Hub",
+      "url": "https://maps.app.goo.gl/p5qw85ugKarPGQWq6"
+    },
+    "eventPage": "https://devfest.gdgmontreal.com/en/",
+    "slides": "",
+    "code": null,
+    "afterEvent": {
+      "linkedin": null,
+      "x": null,
+      "youtube": null
+    }
+  },
+  {
+    "title": "MI.NET — Dev J. Shah - Cosine Similarity with Azure AI Search & Azure AI Foundry",
+    "status": "past",
     "date": null,
     "userGroup": {
       "name": "Michigan .NET Users Group (MI.NET)",
