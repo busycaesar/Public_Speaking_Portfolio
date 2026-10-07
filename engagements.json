@@ -1,6 +1,27 @@
 [
   {
-    "title": "DevFest Montreal",
+    "title": "DevFest Toronto: Build, Secure, Scale: Developers and Builders in the Agentic Era",
+    "status": "upcoming",
+    "date": null,
+    "userGroup": {
+      "name": "GDG Toronto",
+      "url": "https://gdg.community.dev/gdg-montreal/"
+    },
+    "location": {
+      "name": "Northeastern University",
+      "url": "https://maps.app.goo.gl/QxFmRtsqJPEJhCaRA"
+    },
+    "eventPage": "https://gdg.community.dev/events/details/google-gdg-toronto-presents-devfest-toronto-build-secure-scale-developers-and-builders-in-the-agentic-era/cohost-gdg-toronto/",
+    "slides": "",
+    "code": null,
+    "afterEvent": {
+      "linkedin": null,
+      "x": null,
+      "youtube": null
+    }
+  },
+  {
+    "title": "DevFest MTL '26",
     "status": "upcoming",
     "date": null,
     "userGroup": {
