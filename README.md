@@ -4,13 +4,55 @@ Tech talks and workshops I’ve given at meetups, conferences, and community eve
 
 ---
 
-## MI.NET — Dev J. Shah - Cosine Similarity with Azure AI Search & Azure AI Foundry `Upcoming`
+## DevFest Toronto: Build, Secure, Scale: Developers and Builders in the Agentic Era `Upcoming`
+### Events Details
+  - [User Group: GDG Toronto](https://gdg.community.dev/gdg-montreal/)
+  - [Location: Northeastern University](https://maps.app.goo.gl/QxFmRtsqJPEJhCaRA)
+  - [Event Details Page](https://gdg.community.dev/events/details/google-gdg-toronto-presents-devfest-toronto-build-secure-scale-developers-and-builders-in-the-agentic-era)
+### Presentation Details
+  - [Presentation Slides](#)
+  - [Code and Documentation](#)
+### After Event Photos
+  - [LinkedIn](#)
+  - [X](#)
+
+---
+
+## DevFest MTL '26 `Upcoming`
+### Events Details
+  - [User Group: GDG Montreal](https://gdg.community.dev/gdg-montreal/)
+  - [Location: Ax.c Hub](https://maps.app.goo.gl/p5qw85ugKarPGQWq6)
+  - [Event Details Page](https://devfest.gdgmontreal.com/en/)
+### Presentation Details
+  - [Presentation Slides](https://1drv.ms/p/c/76dcfc18af391fdd/IQCfSW5z5uw2RYXgt9LhOxXQAZHoJcGPjLqB9A2c1adaY8w)
+  - [Code and Documentation](https://github.com/busycaesar/Attention_Attention_Everywhere)
+### After Event Photos
+  - [LinkedIn](#)
+  - [X](#)
+
+---
+
+## TechTalk (In-Person) - October 2026 `Upcoming`
+### Events Details
+  - [User Group: Toronto JavaScript](https://torontojs.com)
+  - [Location: Super.com](https://maps.app.goo.gl/TgSkUmm1b1XjZtXLA)
+  - [Event Details Page](https://guild.host/events/techtalk-inperson-october-42xhox)
+### Presentation Details
+  - [Presentation Slides](https://1drv.ms/p/c/76dcfc18af391fdd/IQCfSW5z5uw2RYXgt9LhOxXQAZHoJcGPjLqB9A2c1adaY8w)
+  - [Code and Documentation](https://github.com/busycaesar/Attention_Attention_Everywhere)
+### After Event Photos
+  - [LinkedIn](#)
+  - [X](#)
+
+---
+
+## MI.NET — Dev J. Shah - Cosine Similarity with Azure AI Search & Azure AI Foundry
 ### Events Details
   - [User Group: Michigan .NET Users Group (MI.NET)](https://www.meetup.com/midotnet/)
   - [Location: Epitec](https://maps.app.goo.gl/rT86JJCtbRFxdbLfA)
   - [Event Details Page](https://www.meetup.com/midotnet/events/314783429/)
 ### Presentation Details
-  - [Presentation Slides](#)
+  - [Presentation Slides](https://1drv.ms/p/c/76dcfc18af391fdd/IQBClYO9guiNQr36QF2iffagAbRijzBwGRm99sSMmZqLVW0)
   - [Code and Documentation](https://github.com/busycaesar/Embeddings_And_Cosine_Similarity/blob/Master/Azure/README.md)
 ### After Event Photos
   - [LinkedIn](#)
