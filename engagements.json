@@ -42,27 +42,6 @@
     }
   },
   {
-    "title": "TechTalk (In-Person) - October 2026",
-    "status": "upcoming",
-    "date": "2026-10-22",
-    "userGroup": {
-      "name": "Toronto JavaScript",
-      "url": "https://torontojs.com"
-    },
-    "location": {
-      "name": "Super.com",
-      "url": "https://maps.app.goo.gl/TgSkUmm1b1XjZtXLA"
-    },
-    "eventPage": "https://guild.host/events/techtalk-inperson-october-42xhox",
-    "slides": "https://1drv.ms/p/c/76dcfc18af391fdd/IQCfSW5z5uw2RYXgt9LhOxXQAZHoJcGPjLqB9A2c1adaY8w",
-    "code": "https://github.com/busycaesar/Attention_Attention_Everywhere",
-    "afterEvent": {
-      "linkedin": null,
-      "x": null,
-      "youtube": null
-    }
-  },
-  {
     "title": "MI.NET — Dev J. Shah - Cosine Similarity with Azure AI Search & Azure AI Foundry",
     "status": "past",
     "date": "2026-09-24",
