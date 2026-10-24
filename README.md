@@ -32,20 +32,6 @@ Tech talks and workshops I’ve given at meetups, conferences, and community eve
 
 ---
 
-## TechTalk (In-Person) - October 2026 `Upcoming`
-### Events Details
-  - [User Group: Toronto JavaScript](https://torontojs.com)
-  - [Location: Super.com](https://maps.app.goo.gl/TgSkUmm1b1XjZtXLA)
-  - [Event Details Page](https://guild.host/events/techtalk-inperson-october-42xhox)
-### Presentation Details
-  - [Presentation Slides](https://1drv.ms/p/c/76dcfc18af391fdd/IQCfSW5z5uw2RYXgt9LhOxXQAZHoJcGPjLqB9A2c1adaY8w)
-  - [Code and Documentation](https://github.com/busycaesar/Attention_Attention_Everywhere)
-### After Event Photos
-  - [LinkedIn](#)
-  - [X](#)
-
----
-
 ## MI.NET — Dev J. Shah - Cosine Similarity with Azure AI Search & Azure AI Foundry
 ### Events Details
   - [User Group: Michigan .NET Users Group (MI.NET)](https://www.meetup.com/midotnet/)
