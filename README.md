@@ -8,7 +8,7 @@ Tech talks and workshops I’ve given at meetups, conferences, and community eve
 ### Events Details
   - [User Group: GDG Toronto](https://gdg.community.dev/gdg-montreal/)
   - [Location: Northeastern University](https://maps.app.goo.gl/QxFmRtsqJPEJhCaRA)
-  - [Event Details Page](https://gdg.community.dev/events/details/google-gdg-toronto-presents-devfest-toronto-build-secure-scale-developers-and-builders-in-the-agentic-era)
+  - [Event Details Page](http://gdg.community.dev/events/details/google-gdg-toronto-presents-devfest-toronto-build-secure-scale-developers-and-builders-in-the-agentic-era-1/cohost-gdg-toronto/)
 ### Presentation Details
   - [Presentation Slides](#)
   - [Code and Documentation](#)
