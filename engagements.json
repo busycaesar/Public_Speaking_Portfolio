@@ -1,5 +1,26 @@
 [
   {
+    "title": "TechTalk (In-Person) - November 2026",
+    "status": "upcoming",
+    "date": "2026-11-24",
+    "userGroup": {
+      "name": "Toronto JavaScript",
+      "url": "https://torontojs.com"
+    },
+    "location": {
+      "name": "Super.com",
+      "url": "https://maps.app.goo.gl/TgSkUmm1b1XjZtXLA"
+    },
+    "eventPage": "https://guild.host/events/techtalk-inperson-november-mdyshj",
+    "slides": "https://1drv.ms/p/c/76dcfc18af391fdd/IQC24MJxCJsdTL1qtHg8uMtOAYWp0X5v0ZfeL155xjBsVkE?e=7YzClE",
+    "code": "https://github.com/busycaesar/Attention_Attention_Everywhere",
+    "afterEvent": {
+      "linkedin": null,
+      "x": null,
+      "youtube": null
+    }
+  },
+  {
     "title": "DevFest Toronto: Build, Secure, Scale: Developers and Builders in the Agentic Era",
     "status": "upcoming",
     "date": "2026-11-15",
@@ -22,7 +43,7 @@
   },
   {
     "title": "DevFest MTL '26",
-    "status": "upcoming",
+    "status": "past",
     "date": "2026-11-06",
     "userGroup": {
       "name": "GDG Montreal",
