@@ -4,6 +4,20 @@ Tech talks and workshops I’ve given at meetups, conferences, and community eve
 
 ---
 
+## TechTalk (In-Person) - November 2026 `Upcoming`
+### Events Details
+  - [User Group: Toronto JavaScript](https://torontojs.com)
+  - [Location: Super.com](https://maps.app.goo.gl/TgSkUmm1b1XjZtXLA)
+  - [Event Details Page](https://guild.host/events/techtalk-inperson-november-mdyshj)
+### Presentation Details
+  - [Presentation Slides](https://1drv.ms/p/c/76dcfc18af391fdd/IQC24MJxCJsdTL1qtHg8uMtOAYWp0X5v0ZfeL155xjBsVkE?e=7YzClE)
+  - [Code and Documentation](https://github.com/busycaesar/Attention_Attention_Everywhere)
+### After Event Photos
+  - [LinkedIn](#)
+  - [X](#)
+
+---
+
 ## DevFest Toronto: Build, Secure, Scale: Developers and Builders in the Agentic Era `Upcoming`
 ### Events Details
   - [User Group: GDG Toronto](https://gdg.community.dev/gdg-montreal/)
@@ -18,7 +32,7 @@ Tech talks and workshops I’ve given at meetups, conferences, and community eve
 
 ---
 
-## DevFest MTL '26 `Upcoming`
+## DevFest MTL '26
 ### Events Details
   - [User Group: GDG Montreal](https://gdg.community.dev/gdg-montreal/)
   - [Location: Ax.c Hub](https://maps.app.goo.gl/p5qw85ugKarPGQWq6)
