@@ -1,5 +1,26 @@
 [
   {
+    "title": "DeveloperWeek 2027",
+    "status": "upcoming",
+    "date": "2027-02-09",
+    "userGroup": {
+      "name": "",
+      "url": ""
+    },
+    "location": {
+      "name": "Santa Clara Convention Center",
+      "url": "https://maps.app.goo.gl/eVuW5rmoL8m5oQxb7"
+    },
+    "eventPage": "https://www.developerweek.com/",
+    "slides": "https://1drv.ms/p/c/76dcfc18af391fdd/IQC24MJxCJsdTL1qtHg8uMtOAYWp0X5v0ZfeL155xjBsVkE?e=7YzClE",
+    "code": "https://github.com/busycaesar/Attention_Attention_Everywhere",
+    "afterEvent": {
+      "linkedin": null,
+      "x": null,
+      "youtube": null
+    }
+  },
+  {
     "title": "TechTalk (In-Person) - November 2026",
     "status": "upcoming",
     "date": "2026-11-24",
@@ -57,8 +78,8 @@
     "slides": "https://1drv.ms/p/c/76dcfc18af391fdd/IQCfSW5z5uw2RYXgt9LhOxXQAZHoJcGPjLqB9A2c1adaY8w",
     "code": "https://github.com/busycaesar/Attention_Attention_Everywhere",
     "afterEvent": {
-      "linkedin": null,
-      "x": null,
+      "linkedin": "https://www.linkedin.com/posts/busycaesar_devfest-devfestmtl-gdgmontreal-ugcPost-7525740451715387392-643J",
+      "x": "https://x.com/busycaesar/status/2119977085729173562",
       "youtube": null
     }
   },
