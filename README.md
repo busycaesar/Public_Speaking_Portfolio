@@ -4,6 +4,20 @@ Tech talks and workshops I’ve given at meetups, conferences, and community eve
 
 ---
 
+## DeveloperWeek 2027 `Upcoming`
+### Events Details
+  - [User Group: DevNetwork](https://www.devnetwork.com/)
+  - [Location: Santa Clara Convention Center](https://maps.app.goo.gl/eVuW5rmoL8m5oQxb7)
+  - [Event Details Page](https://www.developerweek.com/)
+### Presentation Details
+  - [Presentation Slides](https://1drv.ms/p/c/76dcfc18af391fdd/IQC24MJxCJsdTL1qtHg8uMtOAYWp0X5v0ZfeL155xjBsVkE?e=7YzClE)
+  - [Code and Documentation](https://github.com/busycaesar/Attention_Attention_Everywhere)
+### After Event Photos
+  - [LinkedIn](#)
+  - [X](#)
+
+---
+
 ## TechTalk (In-Person) - November 2026 `Upcoming`
 ### Events Details
   - [User Group: Toronto JavaScript](https://torontojs.com)
@@ -41,8 +55,8 @@ Tech talks and workshops I’ve given at meetups, conferences, and community eve
   - [Presentation Slides](https://1drv.ms/p/c/76dcfc18af391fdd/IQCfSW5z5uw2RYXgt9LhOxXQAZHoJcGPjLqB9A2c1adaY8w)
   - [Code and Documentation](https://github.com/busycaesar/Attention_Attention_Everywhere)
 ### After Event Photos
-  - [LinkedIn](#)
-  - [X](#)
+  - [LinkedIn](https://www.linkedin.com/posts/busycaesar_devfest-devfestmtl-gdgmontreal-ugcPost-7525740451715387392-643J)
+  - [X](https://x.com/busycaesar/status/2119977085729173562)
 
 ---
 
