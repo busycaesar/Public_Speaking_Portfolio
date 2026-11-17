@@ -32,7 +32,7 @@ Tech talks and workshops I’ve given at meetups, conferences, and community eve
 
 ---
 
-## DevFest Toronto: Build, Secure, Scale: Developers and Builders in the Agentic Era `Upcoming`
+## DevFest Toronto: Build, Secure, Scale: Developers and Builders in the Agentic Era
 ### Events Details
   - [User Group: GDG Toronto](https://gdg.community.dev/gdg-montreal/)
   - [Location: Northeastern University](https://maps.app.goo.gl/QxFmRtsqJPEJhCaRA)
@@ -41,8 +41,8 @@ Tech talks and workshops I’ve given at meetups, conferences, and community eve
   - [Presentation Slides](#)
   - [Code and Documentation](#)
 ### After Event Photos
-  - [LinkedIn](#)
-  - [X](#)
+  - [LinkedIn](https://www.linkedin.com/posts/busycaesar_devfest2026-devfesttoronto-share-7527914113411354625-kx93)
+  - [X](https://x.com/busycaesar/status/2122515066457329885)
 
 ---
 
