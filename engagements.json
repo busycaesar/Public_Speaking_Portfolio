@@ -33,8 +33,8 @@
       "url": "https://maps.app.goo.gl/TgSkUmm1b1XjZtXLA"
     },
     "eventPage": "https://guild.host/events/techtalk-inperson-november-mdyshj",
-    "slides": "https://1drv.ms/p/c/76dcfc18af391fdd/IQC24MJxCJsdTL1qtHg8uMtOAYWp0X5v0ZfeL155xjBsVkE?e=7YzClE",
-    "code": "https://github.com/busycaesar/Attention_Attention_Everywhere",
+    "slides": "https://1drv.ms/p/c/76dcfc18af391fdd/IQAfe3B4z8wVRaFdhy1oXzdsAXUd6qEF4eXc8wiCSCCfCv4"
+    "code": "https://github.com/busycaesar/Attention_Attention_Everywhere/blob/Master/QKV.ipynb",
     "afterEvent": {
       "linkedin": null,
       "x": null,
@@ -54,8 +54,8 @@
       "url": "https://maps.app.goo.gl/QxFmRtsqJPEJhCaRA"
     },
     "eventPage": "http://gdg.community.dev/events/details/google-gdg-toronto-presents-devfest-toronto-build-secure-scale-developers-and-builders-in-the-agentic-era-1/cohost-gdg-toronto/",
-    "slides": "",
-    "code": null,
+    "slides": "https://docs.google.com/presentation/d/172fmoEKcjz-x7T6T8QOAYHwuA0mGu5imZqUHIjbqNaQ",
+    "code": "https://github.com/busycaesar/LoRA/blob/Master/google-gemma/gemma-output.ipynb",
     "afterEvent": {
       "linkedin": "https://www.linkedin.com/posts/busycaesar_devfest2026-devfesttoronto-share-7527914113411354625-kx93",
       "x": "https://x.com/busycaesar/status/2122515066457329885",
@@ -76,7 +76,7 @@
     },
     "eventPage": "https://devfest.gdgmontreal.com/en/",
     "slides": "https://1drv.ms/p/c/76dcfc18af391fdd/IQCfSW5z5uw2RYXgt9LhOxXQAZHoJcGPjLqB9A2c1adaY8w",
-    "code": "https://github.com/busycaesar/Attention_Attention_Everywhere",
+    "code": "https://github.com/busycaesar/Attention_Attention_Everywhere/blob/d26766957aca4a9bb7ed7cb3a4fc0a831e72d6c8/QKV-output.ipynb"
     "afterEvent": {
       "linkedin": "https://www.linkedin.com/posts/busycaesar_devfest-devfestmtl-gdgmontreal-ugcPost-7525740451715387392-643J",
       "x": "https://x.com/busycaesar/status/2119977085729173562",
