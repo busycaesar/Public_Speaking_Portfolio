@@ -24,8 +24,8 @@ Tech talks and workshops I’ve given at meetups, conferences, and community eve
   - [Location: Super.com](https://maps.app.goo.gl/TgSkUmm1b1XjZtXLA)
   - [Event Details Page](https://guild.host/events/techtalk-inperson-november-mdyshj)
 ### Presentation Details
-  - [Presentation Slides](https://1drv.ms/p/c/76dcfc18af391fdd/IQC24MJxCJsdTL1qtHg8uMtOAYWp0X5v0ZfeL155xjBsVkE?e=7YzClE)
-  - [Code and Documentation](https://github.com/busycaesar/Attention_Attention_Everywhere)
+  - [Presentation Slides](https://1drv.ms/p/c/76dcfc18af391fdd/IQAfe3B4z8wVRaFdhy1oXzdsAXUd6qEF4eXc8wiCSCCfCv4)
+  - [Code and Documentation](https://github.com/busycaesar/Attention_Attention_Everywhere/blob/Master/QKV.ipynb)
 ### After Event Photos
   - [LinkedIn](#)
   - [X](#)
@@ -38,8 +38,8 @@ Tech talks and workshops I’ve given at meetups, conferences, and community eve
   - [Location: Northeastern University](https://maps.app.goo.gl/QxFmRtsqJPEJhCaRA)
   - [Event Details Page](http://gdg.community.dev/events/details/google-gdg-toronto-presents-devfest-toronto-build-secure-scale-developers-and-builders-in-the-agentic-era-1/cohost-gdg-toronto/)
 ### Presentation Details
-  - [Presentation Slides](#)
-  - [Code and Documentation](#)
+  - [Presentation Slides](https://docs.google.com/presentation/d/172fmoEKcjz-x7T6T8QOAYHwuA0mGu5imZqUHIjbqNaQ)
+  - [Code and Documentation](https://github.com/busycaesar/LoRA/blob/Master/google-gemma/gemma-output.ipynb)
 ### After Event Photos
   - [LinkedIn](https://www.linkedin.com/posts/busycaesar_devfest2026-devfesttoronto-share-7527914113411354625-kx93)
   - [X](https://x.com/busycaesar/status/2122515066457329885)
@@ -53,7 +53,7 @@ Tech talks and workshops I’ve given at meetups, conferences, and community eve
   - [Event Details Page](https://devfest.gdgmontreal.com/en/)
 ### Presentation Details
   - [Presentation Slides](https://1drv.ms/p/c/76dcfc18af391fdd/IQCfSW5z5uw2RYXgt9LhOxXQAZHoJcGPjLqB9A2c1adaY8w)
-  - [Code and Documentation](https://github.com/busycaesar/Attention_Attention_Everywhere)
+  - [Code and Documentation](https://github.com/busycaesar/Attention_Attention_Everywhere/blob/d26766957aca4a9bb7ed7cb3a4fc0a831e72d6c8/QKV-output.ipynb)
 ### After Event Photos
   - [LinkedIn](https://www.linkedin.com/posts/busycaesar_devfest-devfestmtl-gdgmontreal-ugcPost-7525740451715387392-643J)
   - [X](https://x.com/busycaesar/status/2119977085729173562)
