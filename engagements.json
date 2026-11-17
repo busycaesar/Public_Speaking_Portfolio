@@ -43,7 +43,7 @@
   },
   {
     "title": "DevFest Toronto: Build, Secure, Scale: Developers and Builders in the Agentic Era",
-    "status": "upcoming",
+    "status": "past",
     "date": "2026-11-15",
     "userGroup": {
       "name": "GDG Toronto",
@@ -57,8 +57,8 @@
     "slides": "",
     "code": null,
     "afterEvent": {
-      "linkedin": null,
-      "x": null,
+      "linkedin": "https://www.linkedin.com/posts/busycaesar_devfest2026-devfesttoronto-share-7527914113411354625-kx93",
+      "x": "https://x.com/busycaesar/status/2122515066457329885",
       "youtube": null
     }
   },
