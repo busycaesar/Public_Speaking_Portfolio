@@ -21,6 +21,27 @@
     }
   },
   {
+    "title": "Gen AI and Agentic AI - Full day Hands on Workshop with Certificate",
+    "status": "upcoming",
+    "date": "2026-11-28",
+    "userGroup": {
+      "name": "GDG Cloud Toronto",
+      "url": "https://gdg.community.dev/gdg-cloud-toronto/"
+    },
+    "location": {
+      "name": "TBD",
+      "url": ""
+    },
+    "eventPage": "https://gdg.community.dev/events/details/google-gdg-cloud-toronto-presents-gen-ai-and-agentic-ai-full-day-hands-on-workshop-with-certificate/",
+    "slides": "",
+    "code": "https://partner.skills.google/catalog_lab/31750",
+    "afterEvent": {
+      "linkedin": null,
+      "x": null,
+      "youtube": null
+    }
+  },
+  {
     "title": "TechTalk (In-Person) - November 2026",
     "status": "upcoming",
     "date": "2026-11-24",
