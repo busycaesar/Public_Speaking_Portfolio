@@ -18,6 +18,20 @@ Tech talks and workshops I’ve given at meetups, conferences, and community eve
 
 ---
 
+## Gen AI and Agentic AI - Full day Hands on Workshop with Certificate `Upcoming`
+### Events Details
+  - [User Group: GDG Cloud Toronto](https://gdg.community.dev/gdg-cloud-toronto/)
+  - [Location: TBD](#)
+  - [Event Details Page](https://gdg.community.dev/events/details/google-gdg-cloud-toronto-presents-gen-ai-and-agentic-ai-full-day-hands-on-workshop-with-certificate/)
+### Presentation Details
+  - [Presentation Slides](#)
+  - [Code and Documentation](https://partner.skills.google/catalog_lab/31750)
+### After Event Photos
+  - [LinkedIn](#)
+  - [X](#)
+
+---
+
 ## TechTalk (In-Person) - November 2026 `Upcoming`
 ### Events Details
   - [User Group: Toronto JavaScript](https://torontojs.com)
