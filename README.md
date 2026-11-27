@@ -32,7 +32,7 @@ Tech talks and workshops I’ve given at meetups, conferences, and community eve
 
 ---
 
-## TechTalk (In-Person) - November 2026 `Upcoming`
+## TechTalk (In-Person) - November 2026
 ### Events Details
   - [User Group: Toronto JavaScript](https://torontojs.com)
   - [Location: Super.com](https://maps.app.goo.gl/TgSkUmm1b1XjZtXLA)
