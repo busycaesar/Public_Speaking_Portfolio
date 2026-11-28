@@ -41,8 +41,8 @@ Tech talks and workshops I’ve given at meetups, conferences, and community eve
   - [Presentation Slides](https://1drv.ms/p/c/76dcfc18af391fdd/IQAfe3B4z8wVRaFdhy1oXzdsAXUd6qEF4eXc8wiCSCCfCv4)
   - [Code and Documentation](https://github.com/busycaesar/Attention_Attention_Everywhere/blob/Master/QKV.ipynb)
 ### After Event Photos
-  - [LinkedIn](#)
-  - [X](#)
+  - [LinkedIn](https://lnkd.in/p/g7ukkjnR)
+  - [X](https://x.com/busycaesar/status/2126372975373128190)
 
 ---
 
